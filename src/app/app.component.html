@@ -1,0 +1,52 @@
+<div>
+	<div class="columnOne" >	
+		<br> Food Preference:
+		<mat-button-toggle-group #group="matButtonToggleGroup" [(value)]="selectedFoodPreference" (change)="filterData(group.value,selectedPizzaBase,selectedPizzaType,matslider.value)">
+		  <mat-button-toggle value="veg">Veg</mat-button-toggle>
+		  <mat-button-toggle value="nonVeg">Non Veg</mat-button-toggle>
+		</mat-button-toggle-group>		
+		<!-- For reference 
+ 		<div>Selected value: {{group.value}}</div> -->	 
+ 		
+ 		<br> Price Range:
+ 		<mat-slider #matslider thumbLabel [(value)]="selectedRange" tickInterval="100"  min="100"  max="600" (change)="filterData(selectedFoodPreference,selectedPizzaBase,selectedPizzaType,matslider.value)">
+ 		</mat-slider>
+ 		<!-- For reference
+ 		<p>You selected: {{ matslider.value }}</p> -->
+ 		
+ 		<br> Pizza Base:
+ 		<mat-form-field>
+		  <mat-select [(value)]="selectedPizzaBase" (selectionChange)="filterData(selectedFoodPreference,selectedPizzaBase,selectedPizzaType,matslider.value)"> 		    
+		    <mat-option value="thinCrust">Thin Crust</mat-option>
+		    <mat-option value="regularBase">Regular base</mat-option>
+		    <mat-option value="flatBread">Flat bread</mat-option>
+		    <mat-option value="multigrain">Multigrain</mat-option>
+		  </mat-select>
+		</mat-form-field>
+		<!-- For reference
+		<p>You selected: {{selectedPizzaBase}}</p> -->
+		
+		<br> Pizza Type:
+ 		<mat-form-field>
+		  <mat-select [(value)]="selectedPizzaType" (selectionChange)="filterData(selectedFoodPreference,selectedPizzaBase,selectedPizzaType,matslider.value)">		    
+		    <mat-option value="cheeseBurst">Cheese burst</mat-option>
+		    <mat-option value="cheeseTopping">Cheese topping</mat-option>
+		    <mat-option value="noCheese">No cheese</mat-option>
+		  </mat-select>
+		</mat-form-field>
+		<!-- For reference
+		<p>You selected: {{selectedPizzaType}}</p> -->
+	</div>
+	<div class="columnTwo">
+		<ul *ngFor = "let data of filteredData">
+	   		{{data.PizzaName}}
+		   		<li>{{selectedPizzaBase}}</li>
+		   		<li>{{selectedPizzaType}}</li>
+		   		<li>{{selectedFoodPreference}}</li>
+		   		<li>{{data.Price}}</li>
+	   		<input type="button" value="Add" />
+	   		<hr>
+		</ul>
+	</div>
+</div>
+

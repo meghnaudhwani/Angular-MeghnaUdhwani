@@ -1,0 +1,1343 @@
+[{
+"FoodPreference": "veg",
+"PizzaDetails":[
+	{ 
+		"PizzaBase":"thinCrust",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst Veg",
+								"Price": 600
+							}								
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping Veg",
+								"Price": 500
+							},{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping Veg",
+								"Price": 600
+							}
+														
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 600
+							}						
+						]
+					}
+				]				
+			}					
+		]	
+	},
+	{ 
+		"PizzaBase":"regularBase",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst Veg",
+								"Price": 600
+							}										
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping Veg",
+								"Price": 600
+							}							
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese Veg",
+								"Price": 600
+							}
+														
+						]
+					}
+				]				
+			}					
+		]	
+	},
+	{ 
+		"PizzaBase":"flatBread",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst Veg",
+								"Price": 600
+							}														
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping Veg",
+								"Price": 600
+							}													
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese Veg",
+								"Price": 600
+							}							
+						]
+					}
+				]				
+			}					
+		]	
+	},
+	{ 
+		"PizzaBase":"multigrain",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst Veg",
+								"Price": 600
+							}							
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping Veg",
+								"Price": 600
+							}							
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese Veg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese Veg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese Veg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese Veg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese Veg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese Veg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese Veg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese Veg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese Veg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese Veg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese Veg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese Veg",
+								"Price": 600
+							}							
+						]
+					}
+				]				
+			}					
+		]	
+	}
+]
+},
+{
+"FoodPreference": "nonVeg",
+"PizzaDetails":[
+	
+	{ 
+		"PizzaBase":"thinCrust",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseBurst NonVeg",
+								"Price": 600
+							}								
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 500
+							},{
+								"PizzaName": "BatMan Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust CheeseTopping NonVeg",
+								"Price": 600
+							}
+														
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza ThinCrust NoCheese NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 600
+							}						
+						]
+					}
+				]				
+			}					
+		]	
+	},
+	{ 
+		"PizzaBase":"regularBase",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseBurst NonVeg",
+								"Price": 600
+							}										
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "BatMan Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza RegularBase CheeseTopping NonVeg",
+								"Price": 600
+							}							
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza RegularBase NoCheese NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza ThinCrust NoCheese NonVeg",
+								"Price": 600
+							}
+														
+						]
+					}
+				]				
+			}					
+		]	
+	},
+	{ 
+		"PizzaBase":"flatBread",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseBurst NonVeg",
+								"Price": 600
+							}														
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread CheeseTopping NonVeg",
+								"Price": 600
+							}													
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza FlatBread NoCheese NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza FlatBread NoCheese NonVeg",
+								"Price": 600
+							}							
+						]
+					}
+				]				
+			}					
+		]	
+	},
+	{ 
+		"PizzaBase":"multigrain",
+		"PizzaBaseData":[
+			{
+				"PizzaTypeData":[
+					{
+						"PizzaType": "cheeseBurst",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseBurst NonVeg",
+								"Price": 600
+							}							
+						]						
+					},
+					{
+						"PizzaType": "cheeseTopping",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain CheeseTopping NonVeg",
+								"Price": 600
+							}							
+						]
+					},
+					{
+						"PizzaType": "noCheese",
+						"Details":[
+							{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese NonVeg",
+								"Price": 100
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese NonVeg",
+								"Price": 100
+							},{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese NonVeg",
+								"Price": 200
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese NonVeg",
+								"Price": 200
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese NonVeg",
+								"Price": 300
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese NonVeg",
+								"Price": 300
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese NonVeg",
+								"Price": 400
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese NonVeg",
+								"Price": 400
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese NonVeg",
+								"Price": 500
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese NonVeg",
+								"Price": 500
+							}
+							,{
+								"PizzaName": "BatMan Pizza Multigrain NoCheese NonVeg",
+								"Price": 600
+							},
+							{
+								"PizzaName": "Superman Pizza Multigrain NoCheese NonVeg",
+								"Price": 600
+							}							
+						]
+					}
+				]				
+			}					
+		]	
+	}
+]
+}]
